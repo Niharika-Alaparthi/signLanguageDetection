@@ -1,0 +1,6 @@
+SignLangaugedetection: 
+
+	1. Feature1: Conversion of sign language (signs) to text or speech 
+	2. Feature2: Conversion of text to speech using TTS pacjages
+	3. Feature3: Detection of facial emotions to speech or text in combination with sign language
+	4. Feature4: Dynamically suggest some words based on the context even before the person shows it.  
